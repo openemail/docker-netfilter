@@ -1,5 +1,5 @@
 FROM alpine:3.10
-LABEL maintainer "Chinthaka Deshapriya <chinthaka@cybergate.lk>"
+LABEL maintainer "Andre Peters <andre.peters@servercow.de>"
 
 ENV XTABLES_LIBDIR /usr/lib/xtables
 ENV PYTHON_IPTABLES_XTABLES_VERSION 12
